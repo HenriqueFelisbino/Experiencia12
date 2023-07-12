@@ -22,10 +22,14 @@ aparentemente simples, seu impacto é significativo na vida em sociedade, propor
 
 
 4) Diagrama da Maquina de Estados
+   
+<img width="333" alt="MAQUINA DE ESTADOS" src="https://github.com/HenriqueFelisbino/Experiencia12/assets/134966535/b505b0c3-73de-469d-98a2-b7a83834313b">
 
-   Não foi possível gerar os estados. O quartus não mostra as relações  entre eles.
+Não foi possível gerar os estados. O quartus não mostra as relações  entre eles.
 
-5)Cronograma
+
+
+5) Cronograma
 
    Conforme cronograma confirmado com o professor responsável pelo grupo, temos as seguintes datas estabelecidas para realização do projeto:
 
